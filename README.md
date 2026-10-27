@@ -26,6 +26,11 @@
 
 ## 📝 최근 벨로그 글
 <!-- BLOG-POST-LIST:START -->
+- [분류는 직접 만든 모델로, 마지막은 사람 손으로: 마스킹 편집기까지](https://velog.io/@bello9/%EB%B6%84%EB%A5%98%EB%8A%94-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A0-%EB%AA%A8%EB%8D%B8%EB%A1%9C-%EB%A7%88%EC%A7%80%EB%A7%89%EC%9D%80-%EC%82%AC%EB%9E%8C-%EC%86%90%EC%9C%BC%EB%A1%9C-%EB%A7%88%EC%8A%A4%ED%82%B9-%ED%8E%B8%EC%A7%91%EA%B8%B0%EA%B9%8C%EC%A7%80)
+- [막히면 갈아타고, 비싸지면 직접 만들었다: 동네지킴이 API 이력](https://velog.io/@bello9/%EB%A7%89%ED%9E%88%EB%A9%B4-%EA%B0%88%EC%95%84%ED%83%80%EA%B3%A0-%EB%B9%84%EC%8B%B8%EC%A7%80%EB%A9%B4-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8B%A4-%EB%8F%99%EB%84%A4%EC%A7%80%ED%82%B4%EC%9D%B4-API-%EC%9D%B4%EB%A0%A5)
+- [AI에게 시킨 일, 놓치지 않으려면?](https://velog.io/@bello9/AI%EC%97%90%EA%B2%8C-%EC%8B%9C%ED%82%A8-%EC%9D%BC-%EB%86%93%EC%B9%98%EC%A7%80-%EC%95%8A%EC%9C%BC%EB%A0%A4%EB%A9%B4)
+- [집에서 놀던 NAS, 어디까지 쓸 수 있을까](https://velog.io/@bello9/%EC%A7%91%EC%97%90%EC%84%9C-%EB%86%80%EB%8D%98-NAS-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%93%B8-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C)
+- [앱 테스트는 어떻게 하는거지?](https://velog.io/@bello9/%EC%95%B1-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%8A%94%EA%B1%B0%EC%A7%80)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔭 요즘 하는 일
